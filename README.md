@@ -5,4 +5,4 @@ cs_229에 나오는 EM_algorithm을 구현
 >2. 코드 정리  
 >3. 모듈화   
 >4. plot을 3차원으로 볼 수 있다면 좋을듯   
-[EM_algorithm](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=http%3A%2F%2Fcs229.stanford.edu%2Fnotes2021fall%2Fcs229-notes8.pdf&clen=137314&chunk=true)
+[EM_algorithm](http://cs229.stanford.edu/notes2021fall/cs229-notes8.pdf)
